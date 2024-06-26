@@ -3,7 +3,6 @@
 
 **Sou a Camila**
 
-Here are some ideas to get you started:
 
 - 🌱 Estou estudando Alura
 
